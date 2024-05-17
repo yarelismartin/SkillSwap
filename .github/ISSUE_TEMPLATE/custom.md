@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-#User Story 
+# User Story 
 
-#Acceptance Criteria 
-<-- Figma -->
-<-- ERD -->
+# Acceptance Criteria 
+<!--- Figma --->
+<!--- ERD --->
 
-#Dependencies
+# Dependencies
 
-#Dev Notes
-<-- Structure Checklist -->
-<-- Code Sample -->
+# Dev Notes
+<!--- Structure Checklist --->
+<!--- Code Sample --->
